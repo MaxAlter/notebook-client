@@ -1,0 +1,28 @@
+.comment__list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.comment__item {
+  border-radius: 7px;
+  margin: 0 0 18px 0;
+  background-color: #fff;
+  box-shadow: 6px 6px #ccc, 12px 12px #a3a3a3;
+}
+.name__title {
+  font-size: 14px;
+  color: rgb(6, 64, 172);
+  padding: 10px;
+  margin: 0;
+  font-weight: 800;
+}
+
+.name__title span {
+  padding-right: 10px;
+}
+
+.comment__title {
+  padding: 10px;
+  font-size: 16px;
+  margin: 0;
+}
